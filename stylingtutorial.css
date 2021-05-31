@@ -1,0 +1,26 @@
+body{
+background-image: url(https://images.pexels.com/photos/1591447/pexels-photo-1591447.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+}
+
+h1{
+    font-size: 40px; color: salmon;
+}  
+
+h2{
+    font-size: 20px; color: brown;
+}
+
+.xtra{
+ font-size: 60px;
+}
+
+ .big{
+     text-transform: uppercase;
+ }
+
+.big.xtra{
+    font-style: italic;
+}
+
+ h2 span{color: yellowgreen;}
+span{color: darkblue;}
